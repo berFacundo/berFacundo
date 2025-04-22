@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi , I'm Facundo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🌱 I’m currently learning:
+🌱 I am currently expanding my knowledge in:
   - PHP
   - HTML5
   - Java
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- 📫 Reach out to me at: <a href="facuberazategui77@gmail.com">facuberazategui77@gmail.com</a>
+🤝 I am interested in contributing to open-source projects and collaborative development.
+💬 I am open to questions and always willing to provide support.<br>
+📫 You can contact me at: <a href="facuberazategui77@gmail.com">facuberazategui77@gmail.com</a>
